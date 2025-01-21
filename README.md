@@ -20,8 +20,9 @@ Soft skills: в наличии
 
 Как со мной связаться:
 
-[![телеграм](https://github.com/user-attachments/assets/24580334-c078-4e90-b9a6-a5f7ac9e1911)](https://t.me/linka_kalinka)
-[[![почта](https://github.com/user-attachments/assets/70635cc7-dfc6-4634-b503-cabb4c1a9e62)lina.kalinka@gmail.com](mailto:lina.kalinka@gmail.com)
+[![телеграм](https://github.com/user-attachments/assets/07a63b1a-2b7c-4e82-9024-e855d831e03f)](https://t.me/linka_kalinka)
+[[![почта](https://github.com/user-attachments/assets/910a598c-6e3b-482e-b1ae-868a4ef925da)lina.kalinka@gmail.com](mailto:lina.kalinka@gmail.com)
+
 
 P.S. А вы знали, что сильное нажатие на кончик носа помешает вам улыбнуться?
 P.P.S. Конечно, не помешает! Улыбательного дня 🥰
