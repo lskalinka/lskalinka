@@ -19,10 +19,9 @@ React 🟢⚪️⚪️⚪️⚪️
 Soft skills: в наличии
 
 Как со мной связаться:
-![png-clipart-telegram-computer-icons-logo-android-angle-triangle](https://github.com/user-attachments/assets/a6b734ea-dbc1-472b-9eeb-8640dee5cc89)
-![images](https://github.com/user-attachments/assets/6689e9b8-0a96-41c5-8aa8-1d6a03dd37c1)
 
-
+![телега лого](https://github.com/user-attachments/assets/539df8b3-a7b0-44ad-9a93-4c1e9cb9b5bd)
+![почта лого](https://github.com/user-attachments/assets/e4fd635a-4309-4337-89b1-052e9245b9c6)
 
 P.S. А вы знали, что сильное нажатие на кончик носа помешает вам улыбнуться?
 P.P.S. Конечно, не помешает! Улыбательного дня 
