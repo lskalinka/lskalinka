@@ -11,18 +11,21 @@
 🖥 Активно ищу проектную работу на удалёнке, вот тут можно посмотреть мое резюме https://drive.google.com/file/d/1-CVLx2_zdqa0xRyaQw5yZZV9yBzTL5uZ/view?usp=sharing
 
 Навыки:
-HTML/CSS 🟢🟢🟢🟢⚪️
-JavaScript 🟢🟢🟢⚪️⚪️
-TypeScript 🟢⚪️⚪️⚪️⚪️
-React 🟢⚪️⚪️⚪️⚪️
-
+HTML/CSS 🟢🟢🟢🟢⚪️<br>
+JavaScript 🟢🟢🟢⚪️⚪️<br>
+TypeScript 🟢⚪️⚪️⚪️⚪️<br>
+React 🟢⚪️⚪️⚪️⚪️<br>
 Soft skills: в наличии
 
-Как со мной связаться:
+<p align="center">Как со мной связаться:</p>
 
-[![телеграм](https://github.com/user-attachments/assets/07a63b1a-2b7c-4e82-9024-e855d831e03f)](https://t.me/linka_kalinka)
-[[![почта](https://github.com/user-attachments/assets/910a598c-6e3b-482e-b1ae-868a4ef925da)lina.kalinka@gmail.com](mailto:lina.kalinka@gmail.com)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5f8bd130-c961-47e6-9583-8d76de6ba336">&nbsp;&nbsp;https://t.me/linka_kalinka
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7875fbcd-c0a6-45ed-8a90-e9640b5fa463">&nbsp;&nbsp;lina.kalinka@gmail.com
+</p>
+<br>
 
-
-P.S. А вы знали, что сильное нажатие на кончик носа помешает вам улыбнуться?
+P.S. А вы знали, что сильное нажатие на кончик носа помешает вам улыбнуться?<br>
 P.P.S. Конечно, не помешает! Улыбательного дня 🥰
