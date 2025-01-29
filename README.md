@@ -12,7 +12,7 @@
 
 Навыки:<br>
 HTML/CSS 🟢🟢🟢🟢⚪️<br>
-JavaScript 🟢🟢🟢⚪️⚪️<br>
+JavaScript 🟢🟢⚪️⚪️⚪️<br>
 TypeScript 🟢⚪️⚪️⚪️⚪️<br>
 React 🟢⚪️⚪️⚪️⚪️<br>
 Soft skills: в наличии
