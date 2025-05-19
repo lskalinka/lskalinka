@@ -18,9 +18,9 @@ Soft skills: в наличии
 <p align="center">Как со мной связаться:</p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5f8bd130-c961-47e6-9583-8d76de6ba336">&nbsp;&nbsp;https://t.me/linka_kalinka
+<img src="https://img.icons8.com/?size=30&id=63306&format=png&color=000000">&nbsp;&nbsp;https://t.me/linka_kalinka
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7875fbcd-c0a6-45ed-8a90-e9640b5fa463">&nbsp;&nbsp;lina.kalinka@gmail.com
+  <img src="https://img.icons8.com/?size=30&id=mXcvtsj8e1Ug&format=png&color=000000">&nbsp;&nbsp;lina.kalinka@gmail.com
 </p>
 <br>
